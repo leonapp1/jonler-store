@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Taza Personalizada - Diseño Floral",
+    "price": 15.99,
+    "description": "Taza de cerámica con diseño floral personalizado a tu gusto.",
+    "details": "\n            - Capacidad: 350 ml\n            - Material: Cerámica\n            - Apto para microondas y lavavajillas\n            - Personalización: Nombre, imagen o frase\n            - Colores disponibles: Blanco, Negro, Rosa, Azul\n        ",
+    "image": "https://picsum.photos/200/300?random=1",
+    "sku": "TAPERS-001",
+    "sizes": [350],
+    "rating": 4.7,
+    "category": "San Valentín"
+  },
+  {
+    "id": 2,
+    "name": "Taza Personalizada - Tu Foto",
+    "price": 19.99,
+    "description": "Crea una taza con la foto que más te guste, perfecta para regalar.",
+    "details": "\n            - Capacidad: 330 ml\n            - Material: Cerámica\n            - Apto para microondas y lavavajillas\n            - Personalización: Foto impresa\n            - Colores disponibles: Blanco\n        ",
+    "image": "https://picsum.photos/200/300?random=2",
+    "sku": "TAPERS-002",
+    "sizes": [330],
+    "rating": 4.9,
+    "category": "Regalos Personales"
+  },
+  {
+    "id": 3,
+    "name": "Taza Personalizada - Mensaje Especial",
+    "price": 17.99,
+    "description": "Taza con mensaje especial impresa, ideal para ocasiones especiales.",
+    "details": "\n            - Capacidad: 300 ml\n            - Material: Cerámica\n            - Apto para microondas y lavavajillas\n            - Personalización: Mensaje impreso\n            - Colores disponibles: Blanco, Negro, Rojo\n        ",
+    "image": "https://picsum.photos/200/300?random=3",
+    "sku": "TAPERS-003",
+    "sizes": [300],
+    "rating": 4.8,
+    "category": "Día de la Madre"
+  },
+  {
+    "id": 4,
+    "name": "Taza Personalizada - Pared de Arte",
+    "price": 22.99,
+    "description": "Crea una taza con una ilustración personalizada de tu preferencia.",
+    "details": "\n            - Capacidad: 400 ml\n            - Material: Cerámica\n            - Apto para microondas y lavavajillas\n            - Personalización: Ilustración personalizada\n            - Colores disponibles: Blanco, Negro\n        ",
+    "image": "https://picsum.photos/200/300?random=4",
+    "sku": "TAPERS-004",
+    "sizes": [400],
+    "rating": 5.0,
+    "category": "Arte"
+  },
+  {
+    "id": 5,
+    "name": "Taza Personalizada - Frase Inspiradora",
+    "price": 14.99,
+    "description": "Taza con una frase inspiradora impresa para empezar el día con energía.",
+    "details": "\n            - Capacidad: 350 ml\n            - Material: Cerámica\n            - Apto para microondas y lavavajillas\n            - Personalización: Frase impresa\n            - Colores disponibles: Blanco, Rosa, Azul\n        ",
+    "image": "https://picsum.photos/200/300?random=5",
+    "sku": "TAPERS-005",
+    "sizes": [350],
+    "rating": 4.6,
+    "category": "Motivación"
+  },
+  {
+    "id": 6,
+    "name": "Taza Personalizada - Para Papa",
+    "price": 18.99,
+    "description": "Taza especial para regalar a papá en su día, con un diseño único.",
+    "details": "\n            - Capacidad: 320 ml\n            - Material: Cerámica\n            - Apto para microondas y lavavajillas\n            - Personalización: Mensaje especial\n            - Colores disponibles: Blanco, Gris\n        ",
+    "image": "https://picsum.photos/200/300?random=6",
+    "sku": "TAPERS-006",
+    "sizes": [320],
+    "rating": 4.8,
+    "category": "Día del Padre"
+  },
+  {
+    "id": 7,
+    "name": "Taza Personalizada - Día de la Madre",
+    "price": 19.49,
+    "description": "Taza especial para mamá, con un diseño de corazón y mensaje especial.",
+    "details": "\n            - Capacidad: 330 ml\n            - Material: Cerámica\n            - Apto para microondas y lavavajillas\n            - Personalización: Frase de amor\n            - Colores disponibles: Blanco, Rosa\n        ",
+    "image": "https://picsum.photos/200/300?random=7",
+    "sku": "TAPERS-007",
+    "sizes": [330],
+    "rating": 5.0,
+    "category": "Día de la Madre"
+  },
+  {
+    "id": 8,
+    "name": "Taza Personalizada - Navidad",
+    "price": 16.99,
+    "description": "Taza temática navideña, con imágenes y mensajes para la temporada.",
+    "details": "\n            - Capacidad: 350 ml\n            - Material: Cerámica\n            - Apto para microondas y lavavajillas\n            - Personalización: Tema navideño\n            - Colores disponibles: Blanco, Rojo\n        ",
+    "image": "https://picsum.photos/200/300?random=8",
+    "sku": "TAPERS-008",
+    "sizes": [350],
+    "rating": 4.7,
+    "category": "Navidad"
+  },
+  {
+    "id": 9,
+    "name": "Taza Personalizada - Pareja",
+    "price": 21.99,
+    "description": "Taza especial para parejas, con un diseño único para dos.",
+    "details": "\n            - Capacidad: 300 ml\n            - Material: Cerámica\n            - Apto para microondas y lavavajillas\n            - Personalización: Nombre de pareja\n            - Colores disponibles: Blanco, Rojo\n        ",
+    "image": "https://picsum.photos/200/300?random=9",
+    "sku": "TAPERS-009",
+    "sizes": [300],
+    "rating": 4.9,
+    "category": "San Valentín"
+  },
+  {
+    "id": 10,
+    "name": "Taza Personalizada - Diseño Abstracto",
+    "price": 17.99,
+    "description": "Taza con un diseño artístico abstracto único y moderno.",
+    "details": "\n            - Capacidad: 350 ml\n            - Material: Cerámica\n            - Apto para microondas y lavavajillas\n            - Personalización: Diseño abstracto\n            - Colores disponibles: Blanco, Azul, Naranja\n        ",
+    "image": "https://picsum.photos/200/300?random=10",
+    "sku": "TAPERS-010",
+    "sizes": [350],
+    "rating": 4.8,
+    "category": "Arte"
+  }
+]
